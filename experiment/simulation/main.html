@@ -1,0 +1,70 @@
+<head>
+	<script src='eb4_folurescentlamp\experiment\simulation\js\java.js'> </script>
+	<link rel='stylesheet' href='eb4_folurescentlamp\experiment\simulation\css\style.css'> 
+</head><body onload=" draw(0);" >
+	<h1 style="margin-top: 10px;">Connection and measurement of power consumption of a fluorescent lamp</h1>
+	<div id="simulator">
+	  <div class="one"style="background: url('eb4_folurescentlamp\experiment\simulation\images\img'); background-size: 100% 100%;">
+		<canvas id="myCanvas" style="display: none;"> </canvas>
+		<div class="one1"></div>
+		<div class="one2"></div>
+		<div class="one3"></div>
+		<div class="one4"></div>
+		<div class="one5"></div>
+		<div class="one6"></div>
+		<div class="one7"></div>
+		<div class="one8"></div>
+		<div class="one9"></div>
+		<div class="one10"></div>
+		<div class="one11"></div>
+		<div class="one12"></div>
+		<div class="one13"></div>
+		<div class="one14"></div>
+		<div class="one15"></div>
+		<div class="one16"></div>
+		<div class="one17"></div>
+		<div class="one18"></div>
+		<div class="one19"></div>  
+	  </div>
+	  <div class="two" id="component">
+		<input type="button" class='component_button' id='b_reset' onclick="reset1();" value='Enable Power'>
+		<p id="place_equip">Place equipments:</p>
+		<button class='component_button' id='b_switch' onclick="hide(18)">Starter</button>
+		<button class='component_button' id='b_pt'   onclick="hide(12)">Choke</button>
+		<button class='component_button' id='b_ct1'  onclick="hide(15)">Fluorescent tube</button>
+		<button class='component_button' id='b_ct2'  onclick="hide(9)">Ammeter</button>
+		<button class='component_button' id='b_loads'onclick="hide(7)">Voltmeter</button>
+		<button class='component_button' id='b_t'    onclick="hide(1)">1-&Phi; Supply</button>
+		<p id="connectwires">Connect devices with wires and Wattmeter:</p> 
+		<button class='component_button' id='b_wire' onclick="hide(3)">Wattmeter </button> 
+		<button class='component_button' id='b_sevth' onclick="hide(0);"> Wires </button> 
+	  </div>
+	  <div class="three">
+		<h2> Instructions</h2><br>
+		<p id='instructions'></p>
+	  </div>
+	  <div class="four">
+	<ul id="input_form" onchange="redraw();">
+	<li class="li1">
+	 
+  
+  <li class="li1">
+	<br></br>
+      <p>Voltmeter: 220V</p>
+   
+      <p>Ammeter: 0.3Ω<p>
+      <br></br>
+	<p>Wattmeter Multiplying Factor</p>     
+  <span><input id="watt_multi1" type="radio" name="i1" value="0">
+	<label for="watt_multi1">2</label>
+	<div class="check"><div class="inside"></div></div></span> 
+  <span>
+	<input id="watt_multi" type="radio" name="i1" value="1"> 
+	<label for="watt_multi">4</label>
+	<div class="check"><div class="inside"></div></div></span>
+  </li>
+  </ul>
+	  </div>
+	  <div class="five"><h2>Wattmeter Reading : <span id="demo"></span> Watts</h2><canvas class="canvas2" id="canvas2" width="350" height="175"></canvas></div>
+	</div>
+	 </body>
