@@ -1,8 +1,5 @@
 ## Introduction (Round 0)
 
-Remove this line before submitting : To Refer a filled sample of this template visit here : <br> http://vlabs.iitb.ac.in/gitlab/Community-Docs/New-Lab-development/Samples
-<br>
-
 <b>Discipline | <b>Electrical Engineering/ Electrical and Electronics Engg.
 :--|:--|
 <b> Lab | <b> Basic Electrical Engineering Lab
@@ -30,7 +27,7 @@ Basic Elecrical Engineering (KEE 101/201)
 
 Dr. APJ Abdul Kalam University Lucknow
 
-<b>Name of Developer | <b> Sachin Singh - - - - - -
+<b>Name of Developer | <b> Sachin Singh
 :--|:--|
 <b> Institute | <b> Institute of Engineering and Technology
 <b> Email id|     <b> sachinsingh@ietlucknow.ac.in
@@ -38,7 +35,7 @@ Dr. APJ Abdul Kalam University Lucknow
 
 #### Mentor Details
 
-<b>Mentored by | <b> T.S.S. Subramanian - - - - - -
+<b>Mentored by | <b> T.S.S. Subramanian
 :--|:--|
 <b> Institute | <b> HCST Mathura
 <b> Email id|     <b> tss.senthil.hcst@sgei.org
