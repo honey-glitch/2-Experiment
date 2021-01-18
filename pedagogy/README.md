@@ -65,9 +65,8 @@ Read the theory and comprehend the concepts related to the experiment. [LO1, LO2
 
 Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the simulator | Assessment Questions as per LO & Task
 :--|:--|:--|:-:
-1.| Understand fluorescent tube, starter, choke coil and wattmeter connection in 1-Phase circuit. <br> | Students will make connections in the simulator. | How choke coil and starter are connected in the 1-Phase circuit for measurement of power? <br> <b>A. series and parallel </b><br> B. series and series <br> C. parallel and parallel <br> D. parallel and series <br>
-
-2.| Calculate the power consumed in the fluorescent tube <br> | After proper connection student will record the wattmeter, voltmeter and ammeter reading in the observation table | What is the formula for calculating power of 1-phase load? <br><b> A. VA Cos Φ </b><br> B. 3VA CosΦ <br> C. 3VA Cos Φ <br> D. 2VA Cos Φ <br>
+1.| Understand fluorescent tube, starter, choke coil and wattmeter connection in 1-Phase circuit. <br> | Students will make connections in the simulator. | How choke coil and starter are connected in the 1-Phase circuit for measurement of power? <br> <b>A. series and parallel </b><br> B. series and series <br> C. parallel and parallel <br> D. parallel and series 
+2.| Calculate the power consumed in the fluorescent tube <br> | After proper connection student will record the wattmeter, voltmeter and ammeter reading in the observation table | What is the formula for calculating power of 1-phase load? <br><b> A. VA Cos Φ </b><br> B. 3VA CosΦ <br> C. 3VA Cos Φ <br> D. 2VA Cos Φ
 3.| Calculate the  power factor of the circuit.<br> | By using the readings of wattmeter, voltmeter, and ammeter student will calculate power factor of the circuit. | What is the formula for calculating power factor in 1-phase circuit?
 
 
