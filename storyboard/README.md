@@ -81,11 +81,11 @@ The user after using this simulator were able to know how to make connection for
                       cosΦ = Power factor of the circuit
 
 ### 3. Flowchart 4
-<img src="flowchart/flowchart.png"/><br>
+<img src="flowchart/flow.png"/><br>
 <br>
 
 ### 4. Mindmap:
-<img src="mindmap/mindmap.png"/>
+<img src="mindmap/mind.png"/>
 
 ### 5. Storyboard :
 Storyboard: <a href="Storyboard/carwiper.gif"></a>
