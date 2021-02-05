@@ -1,4 +1,4 @@
-## <b> Pre-test
+## Pre-test
 #### Please attempt the following questions
 
 Q1. How starter and choke coil are connected with the fluorescent lamp in 1-phase circuit?<br>
