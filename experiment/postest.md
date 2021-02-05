@@ -14,8 +14,8 @@ Q3. What is the different multiplying factor of wattmeter given in the simulator
 a.	2 and 4<br>
 b.	4 and 6<br>
 c.	6 and 8<br>
-d.	2 and 8<br>
-Q4. What do you mean by multiplying factor of the wattmeter?<br><br>
+d.	2 and 8<br><br>
+Q4. What do you mean by multiplying factor of the wattmeter?<br>
 a.	 multiplying factor gives the actual reading of a meter.<br>
 b.	multiplying factor used  for measurement of high current and voltage.<br>
 c.	multiplying factor used to determine the reactive power of load.<br>
