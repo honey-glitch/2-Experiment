@@ -1,32 +1,23 @@
 ## <b> Pre-test
 #### Please attempt the following questions
 
-1) Interference occurs due to _______ of the light.<br>
-<b>a) Wave nature<br></b>
-b) particle nature<br>
-c) both a and b<br>
-d) none of these<br>
-
-2) Superposition of crest over crest results in __________ .<br>
-a) Destructive interference<br>
-<b> b) Constructive interference<br></b>
-c) Diffraction<br>
-d) Polarization<br>
-
-3) If two waves with amplitude (y1) and (y2) travelling in the same medium reach at a point in the medium, then the resultant displacement at that point in the medium, will be given by __________ .<br>
-a) y1 -y2<br>
-<b>b) y1 + y2<br></b>
-c) y1 / y2<br>
-d) y1 * y2<br>
-
-4) The condition for destructive interference is: the path difference should be equal to __________. <br>
-<b>a) Odd integral multiple of wavelength<br></b>
-b) Integral multiple of wavelength<br>
-c) Odd integral multiple of half wavelength<br>
-d) Integral multiple of half wavelength<br>
-
-5) In Newton's ring experiment, the diameter of the dark rings is proportional to __________ .<br>
-a) Odd natural numbers<br>
-b) Even natural numbers<br>
-c) Complex numbers<br>
-<b>d) square root of natural numbers<br></b>
+Q1. How starter and choke coil are connected with the fluorescent lamp in 1-phase circuit?<br>
+a.	Series and parallel<br>
+b.	Series and series<br>
+c.	Parallel and parallel<br>
+d.	Parallel and series<br><br>
+Q2. Which gas is used in the fluorescent lamp?<br>
+a.	Argon<br>
+b.	Neon<br>
+c.	Hydrogen<br>
+d.	Helium <br><br>
+Q3. What is the use choke coil in the fluorescent lamp (tube light) circuit?<br>
+a.	Increases the current in the fluorescent lamp.<br>
+b.	Increases the voltage in the fluorescent lamp.<br>
+c.	Decreases the voltage in the fluorescent lamp.<br>
+d.	Decreases the current in the fluorescent lamp.<br><br>
+Q4. How to calculate the power factor of any single-phase circuit?<br>
+a.	PF= Wattmeter Reading/(Voltmeter Reading× Ammeter Reading).<br>
+b.	PF= (Voltmeter Reading× Ammeter Reading)/ Wattmeter Reading).<br>
+c.	PF= Ammeter Reading/(Voltmeter Reading× Wattmeter Reading).<br>
+d.	PF= voltmeter Reading/(Wattmeter Reading× Ammeter Reading).<br>
