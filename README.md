@@ -3,7 +3,7 @@
 <b>Discipline | <b>Electrical Engineering/ Electrical and Electronics Engg.
 :--|:--|
 <b> Lab | <b> Basic Electrical Engineering Lab
-<b> Experiment|     <b> 1. (enter the correct experiment number) Name of the experiment
+<b> Experiment|     <b> 1. Connection and measurement of power consumption of a fluorescent lamp (tube light)
 
 <h5> About the Lab (Objective) : </h5>
 
@@ -46,7 +46,7 @@ Dr. APJ Abdul Kalam University Lucknow
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
 1 | Indra Kumar Singh | Student | Electrical Engg. Dept. | IET Lucknow | indrasingh0510@gmail.com
-2 | Ashish Kumar Mishra | Computer Science Dept. | Dept Name | IET Lucknow | ashkrmishra123@gmail.com
+2 | Ashish Kumar Mishra | Student | Computer Science Dept. | IET Lucknow | ashkrmishra123@gmail.com
 3 | Prabhav Garg | Student | Computer Science Dept. | IET Lucknow | meetprabhavgarg@gmail.com
 4 | Dheeraj Maurya | Student | Computer Science Dept. | IET Lucknow | dheeraj945016@gmail.com
 
