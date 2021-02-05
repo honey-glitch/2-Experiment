@@ -2,7 +2,7 @@
 <p align="center">
 <br>
 <br>
-<b> Experiment Basic Electrical Engineering Lab  <a name="top"></a> <br>
+<b>Basic Electrical Engineering Lab  <a name="top"></a> <br>
 </p>
 
 <b>Discipline | <b>Electrical Engineering/ Electrical and Electronics Engg.
