@@ -90,27 +90,45 @@
 
   const myQuestions = [
     {
-      question: "This is question 1?",  ///// Write the question inside double quotes
+      question: "How much total power consumed by fluorescent lamp after simulating the circuit?",  ///// Write the question inside double quotes
       answers: {
-        a: "Option 1",                  ///// Write the option 1 inside double quotes
-        b: "Option 2",                  ///// Write the option 2 inside double quotes
-        c: "Option 3",                  ///// Write the option 3 inside double quotes
-        d: "Option 4"                   ///// Write the option 4 inside double quotes
+        a: "50 Watts",                  ///// Write the option 1 inside double quotes
+        b: "40 Watts",                  ///// Write the option 2 inside double quotes
+        c: "30 Watts",                  ///// Write the option 3 inside double quotes
+        d: "60 Watts"                   ///// Write the option 4 inside double quotes
+      },
+      correctAnswer: "b"                ///// Write the correct option inside double quotes
+    },
+    {
+      question: "Give the formula for calculation of power factor of the simulated circuit?",  ///// Write the question inside double quotes
+      answers: {
+        a: "PF= Wattmeter Reading/(Voltmeter Reading× Ammeter Reading).",                  ///// Write the option 1 inside double quotes
+        b: "PF= (Voltmeter Reading× Ammeter Reading)/ Wattmeter Reading).",                  ///// Write the option 2 inside double quotes
+        c: "PF= Ammeter Reading/(Voltmeter Reading× Wattmeter Reading).",                  ///// Write the option 3 inside double quotes
+        d: "PF= Voltmeter Reading/(Wattmeter Reading× Ammeter Reading)."                   ///// Write the option 4 inside double quotes
+      },
+      correctAnswer: "a"                ///// Write the correct option inside double quotes
+    },                                  ///// To add more questions, copy the section below 
+     {
+      question: "What is the different multiplying factor of wattmeter given in the simulator?",  ///// Write the question inside double quotes
+      answers: {
+        a: "2 and 4",                  ///// Write the option 1 inside double quotes
+        b: "4 and 6",                  ///// Write the option 2 inside double quotes
+        c: "6 and 8",                  ///// Write the option 3 inside double quotes
+        d: "2 and 8"                   ///// Write the option 4 inside double quotes
       },
       correctAnswer: "a"                ///// Write the correct option inside double quotes
     },
-
     {
-      question: "This is question 2?",  ///// Write the question inside double quotes
+      question: "What do you mean by multiplying factor of the wattmeter?",  ///// Write the question inside double quotes
       answers: {
-        a: "Option 1",                  ///// Write the option 1 inside double quotes
-        b: "Option 2",                  ///// Write the option 2 inside double quotes
-        c: "Option 3",                  ///// Write the option 3 inside double quotes
-        d: "Option 4"                   ///// Write the option 4 inside double quotes
+        a: "multiplying factor gives the actual reading of a meter.",                  ///// Write the option 1 inside double quotes
+        b: "multiplying factor used for measurement of high current and voltage.",                  ///// Write the option 2 inside double quotes
+        c: "multiplying factor used to determine the reactive power of load.",                  ///// Write the option 3 inside double quotes
+        d: "multiplying factor used to determine the active power of load."                   ///// Write the option 4 inside double quotes
       },
-      correctAnswer: "b"                ///// Write the correct option inside double quotes
-    },                                  ///// To add more questions, copy the section below 
-    									                  ///// this line
+      correctAnswer: "a"                ///// Write the correct option inside double quotes
+    },    ///// this line
 
 
     /* To add more MCQ's, copy the below section, starting from open curly braces ( { )
