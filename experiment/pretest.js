@@ -90,28 +90,48 @@
 
   const myQuestions = [
     {
-      question: "This is question 1?",  ///// Write the question inside double quotes
+      question: "How starter and choke coil are connected with the fluorescent lamp in 1-phase circuit?",  ///// Write the question inside double quotes
       answers: {
-        a: "Option 1",                  ///// Write the option 1 inside double quotes
-        b: "Option 2",                  ///// Write the option 2 inside double quotes
-        c: "Option 3",                  ///// Write the option 3 inside double quotes
-        d: "Option 4"                   ///// Write the option 4 inside double quotes
+        a: "Series and parallel",                  ///// Write the option 1 inside double quotes
+        b: "Series and series",                  ///// Write the option 2 inside double quotes
+        c: "Parallel and parallel",                  ///// Write the option 3 inside double quotes
+        d: "Parallel and series"                   ///// Write the option 4 inside double quotes
       },
-      correctAnswer: "a"                ///// Write the correct option inside double quotes
+      correctAnswer: "d"                ///// Write the correct option inside double quotes
     },
 
     {
-     question: "This is question 2?",  ///// Write the question inside double quotes
+     question: "Which gas is used in the fluorescent lamp?",  ///// Write the question inside double quotes
       answers: {
-        a: "Option 1",                  ///// Write the option 1 inside double quotes
-        b: "Option 2",                  ///// Write the option 2 inside double quotes
-        c: "Option 3",                  ///// Write the option 3 inside double quotes
-        d: "Option 4"                   ///// Write the option 4 inside double quotes
+        a: "Argon",                  ///// Write the option 1 inside double quotes
+        b: "Neon",                  ///// Write the option 2 inside double quotes
+        c: "Hydrogen",                  ///// Write the option 3 inside double quotes
+        d: "Helium"                   ///// Write the option 4 inside double quotes
       },
-      correctAnswer: "b"                ///// Write the correct option inside double quotes
+      correctAnswer: "a"                ///// Write the correct option inside double quotes
     },                                  ///// To add more questions, copy the section below 
     									                  ///// this line
-
+{
+     question: "What is the use choke coil in the fluorescent lamp (tube light) circuit?",  ///// Write the question inside double quotes
+      answers: {
+        a: "Increases the current in the fluorescent lamp.",                  ///// Write the option 1 inside double quotes
+        b: "Increases the voltage in the fluorescent lamp.",                  ///// Write the option 2 inside double quotes
+        c: "Decreases the voltage in the fluorescent lamp.",                  ///// Write the option 3 inside double quotes
+        d: "Decreases the current in the fluorescent lamp."                   ///// Write the option 4 inside double quotes
+      },
+      correctAnswer: "b"                ///// Write the correct option inside double quotes
+    },
+{
+     question: "How to calculate the power factor of any single-phase circuit?",  ///// Write the question inside double quotes
+      answers: {
+        a: "PF= Wattmeter Reading/(Voltmeter Reading× Ammeter Reading).",                  ///// Write the option 1 inside double quotes
+        b: "PF= (Voltmeter Reading× Ammeter Reading)/ Wattmeter Reading).",                  ///// Write the option 2 inside double quotes
+        c: "PF= Ammeter Reading/(Voltmeter Reading× Wattmeter Reading).",                  ///// Write the option 3 inside double quotes
+        d: "PF= voltmeter Reading/(Wattmeter Reading× Ammeter Reading)."                   ///// Write the option 4 inside double quotes
+      },
+      correctAnswer: "a"                ///// Write the correct option inside double quotes
+    },    
+    
 
     /* To add more MCQ's, copy the below section, starting from open curly braces ( { )
         till closing curly braces comma ( }, )
