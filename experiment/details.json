@@ -2,9 +2,9 @@
 
    "details": [
        {
-			"Experiment": "",     
-			"Lab": "",               
-			"Discipline": "",				 
+			"Experiment": "Connection and measurement of power consumption of a fluorescent lamp (tube light)",     
+			"Lab": "Basic Electrical Engineering Lab",               
+			"Discipline": "Electrical Engineering/ Electrical and Electronics Engg.",				 
 			"Technology": ""         
        }
    ],
@@ -17,29 +17,38 @@
        }
    ],
 
+  
+   "developer": [
+       {       
+      "Developer": "Sachin Singh",         
+      "Institute": "Institute of Engineering and Technology, Lucknow",         
+      "InstituteAcronym": "IET Lucknow"   
+       }
+   ],
+
    "contributer": [
        {       
-			"Contributer": "",             
-      "Institute": "",               
-			"InstituteAcronym": ""         
+			"Contributer": "Ashish Kumar Mishra",             
+      "Institute": "Institute of Engineering and Technology, Lucknow",               
+			"InstituteAcronym": "IET Lucknow"         
        },
 
        {       
-			"Contributer": "",              
-      "Institute": "",               
-			"InstituteAcronym": ""         
+			"Contributer": "Prabhav Garg",              
+      "Institute": "Institute of Engineering and Technology, Lucknow",               
+			"InstituteAcronym": "IET Lucknow"         
        },
 
        {       
-			"Contributer": "",             
-      "Institute": "",               
-			"InstituteAcronym": ""         
+			"Contributer": "Dheeraj Mauya",             
+      "Institute": "Institute of Engineering and Technology, Lucknow",               
+			"InstituteAcronym": "IET Lucknow"         
        },
 
        {       
-			"Contributer": "",              
-      "Institute": "",               
-			"InstituteAcronym": ""         
+			"Contributer": "Indra Singh",              
+      "Institute": "Institute of Engineering and Technology, Lucknow",               
+			"InstituteAcronym": "IET Lucknow"         
        }
    ]
 
